@@ -1,0 +1,18 @@
+html {
+  .caixa-texto {
+    display: flex;
+    align-items: center;
+  }
+
+  .caixa-texto img {
+    width: 30px; /* ajuste conforme necessário */
+    height: 30px; /* ajuste conforme necessário */
+    margin-right: 10px; /* ajuste conforme necessário */
+  }
+
+  .caixa-texto a {
+    text-decoration: none;
+    color: #000; /* cor do texto */
+  }
+
+}
